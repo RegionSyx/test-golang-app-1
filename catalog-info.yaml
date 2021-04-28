@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-golang-app-1
   description: A test golang application via Backstage
-tags:
+  tags:
     - golang
     - test
   annotations: 

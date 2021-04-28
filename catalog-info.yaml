@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: test-golang-app-1
   description: A test golang application via Backstage
+tags:
+    - golang
+    - test
   annotations: 
     github.com/project-slug: RegionSyx/test-golang-app-1
     backstage.io/source-ref: "https://github.com/RegionSyx/test-golang-app-1"
